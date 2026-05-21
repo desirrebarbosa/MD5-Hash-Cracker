@@ -36,7 +36,7 @@
             <li><a href="index.php">Cracker</a></li>
             <li><a href="md5.php">Hash Maker</a></li>
             <li><a href="makecode.php">Key Encoder</a></li>
-            <li><a href="#">Docs</a></li>
+            <li><a href="docs.php">Docs</a></li>
         </ul>
         <a href="index.php" class="nav-cta">Back to Cracking</a>
     </nav>
