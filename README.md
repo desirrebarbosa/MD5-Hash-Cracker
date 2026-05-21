@@ -10,6 +10,21 @@ brute-force, and the difference between *one-way* and *infeasible-to-reverse*.
 
 ---
 
+## ✦ Live demo
+
+**v0.0.1 is deployed and live:**
+🔗 **[ciphr-md5-hash-cracker.infinityfreeapp.com](https://ciphr-md5-hash-cracker.infinityfreeapp.com/?i=1)**
+
+Try the full round-trip in 30 seconds:
+
+1. Open the **Key Encoder** page, type any two lowercase letters → copy the hash
+2. Paste it into the **Cracker** → watch the plaintext recover in milliseconds
+
+> Hosted on InfinityFree. The free tier may sleep briefly if idle —
+> first load can take a moment, subsequent navigation is instant.
+
+---
+
 ## ✦ What's inside
 
 The app ships as three small PHP pages, all sharing one stylesheet:
